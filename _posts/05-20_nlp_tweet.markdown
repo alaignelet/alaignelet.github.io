@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Venue Analytics: A Simple Alternative to Citation-Based Metrics"
+date:   2019-03-01 00:00:00 +00:00
+image: /images/jcdl2019.jpg
+categories: research
+authors: "<strong>Batuhan Guler, Alexis Laignelet, Nicolo Frisiani</strong>"
+venue: "ACM/IEEE Joint Conference on Digital Libraries"
+arxiv: https://arxiv.org/abs/1904.12573
+slides: /pdfs/jcdl2019.pdf
+code: https://github.com/leonidk/venue_scores
+---
+This report contains the details regarding our submission to the OffensEval 2019 (SemEval 2019 - Task 6). The competition was based on the Offensive Language Identification Dataset. We first discuss the details of the classifier implemented and the type of input data used and pre-processing performed. We then move onto critically evaluating our performance. We have achieved a macro-average F1-score of 0.76, 0.68, 0.54, respectively for Task a, Task b, and Task c, which we believe reflects on the level of sophistication of the models implemented. Finally, we will be discussing the difficulties encountered and possible improvements for the future.
