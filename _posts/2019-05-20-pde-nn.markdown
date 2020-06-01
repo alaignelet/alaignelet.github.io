@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Towards Robust and Stable Deep Learning Algorithms for Forward Backward Stochastic Differential Equations"
-date:   2019-03-01 22:21:59 +00:00
-image: /images/trump_nlp.png
+date:   2019-09-01 22:21:59 +00:00
+image: /images/pde_nn.png
 categories: research
 authors: "<strong>Bathuan Guler, Alexis Laignelet, Panos Parpas</strong>"
 venue: "NeurIPS 2019 Robust AI in Financial Services workshop"
