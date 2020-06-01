@@ -4,7 +4,7 @@ title:  "Multi-armed bandits"
 date:   2020-06-01 22:21:59 +00:00
 image: /images/bandits.jpg
 categories: talks
-#course: "ETH, Analytics Club"
+course: "JPMorgan, AI & Machine Learning program"
 author: "Alexis Laignelet"
 #subtitle: "Collaborative robot state estimation"
 slides: /pdfs/mab-jpm.pdf
