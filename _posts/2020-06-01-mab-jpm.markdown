@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Multi-armed bandits"
+date:   2020-06-01 22:21:59 +00:00
+image: /images/eth_logo.png
+categories: talks
+#course: "ETH, Analytics Club"
+author: "Alexis Laignelet"
+#subtitle: "Collaborative robot state estimation"
+slides: /pdfs/mab-jpm.pdf
+code: https://github.com/alaignelet/bandits
+---
+A review of the most common forms of multi-armed bandits with some practical examples.
