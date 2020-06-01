@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Venue Analytics: A Simple Alternative to Citation-Based Metrics"
-date:   2019-03-01 00:00:00 +00:00
-image: /images/jcdl2019.jpg
-categories: research
-authors: "<strong>Batuhan Guler, Alexis Laignelet, Nicolo Frisiani</strong>"
-venue: "ACM/IEEE Joint Conference on Digital Libraries"
-arxiv: https://arxiv.org/abs/1904.12573
-slides: /pdfs/jcdl2019.pdf
-code: https://github.com/leonidk/venue_scores
+title:  "Project Tetra: Collaborative robot state estimation"
+date:   2011-07-21 22:21:59 +00:00
+image: /images/tetra-pcb.jpg
+categories: UC
+course: "Berkeley EE149: Embedded Systems"
+author: "Leo Keselman"
+subtitle: "Collaborative robot state estimation"
 ---
-This report contains the details regarding our submission to the OffensEval 2019 (SemEval 2019 - Task 6). The competition was based on the Offensive Language Identification Dataset. We first discuss the details of the classifier implemented and the type of input data used and pre-processing performed. We then move onto critically evaluating our performance. We have achieved a macro-average F1-score of 0.76, 0.68, 0.54, respectively for Task a, Task b, and Task c, which we believe reflects on the level of sophistication of the models implemented. Finally, we will be discussing the difficulties encountered and possible improvements for the future.
+Bonjour With Humphrey Hu, Ryan Julian, and Eric Yuan, a project to show the efficacy of multiple-robot collaborative state estimation. Using Wiimote cameras, mobile robot platforms, and real-time wireless communication.
+
+The basic premise of the project was extending an iRobot iCreate mobile robot with an infrared imager (a Wiimote IR camera), and utilize the camera for real-time noisy estimates  of a target's position. We showed that such a mobile platform could localize a tetrahedral target to within a few centimeters in approximately 15 seconds. The project was further extended to add real-time, ZigBee-based networking to have multiple robots share observations and showed that the localization time decreased to five seconds and one second with two and three robots respectively. The project's technical nature was broad, and required the development of, among other components, particle filters distributed across multiple robots, real-time networking on embedded systems, mechatronic design, and a custom PCB design for the Wiimote's camera. The project was the focal point of the course, which was taught by Professor Edward Lee and Professor Sanjit Seshia.
