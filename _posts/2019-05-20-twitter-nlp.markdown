@@ -5,7 +5,7 @@ date:   2019-03-01 22:21:59 +00:00
 image: /images/trump_nlp.png
 categories: research
 authors: "<strong>Bathuan Guler, Alexis Laignelet, Nicolo Frisiani</strong>"
-#venue: "ACM/IEEE Joint Conference on Digital Libraries"
+venue: "Preprint arXiv"
 arxiv: https://arxiv.org/abs/1903.08734
 #slides: /pdfs/jcdl2019.pdf
 code: https://github.com/alaignelet/nlp-sem-eval-2019
