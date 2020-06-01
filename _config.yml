@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Leonid Keselman
+name: Alexis Laignelet
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/circle_bw_crop.jpg
+avatar: images/portrait.jpg
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: images/circle_bw_crop.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: lkeselman@gmail.com
+  email: alexis.laignelet@gmail.com
   facebook:
   flickr:
-  github: leonidk
-  instagram: leo_nid_k
-  linkedin:
+  github: alaignelet
+  instagram: 
+  linkedin: alexis-laignelet-9aaa7a48
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
