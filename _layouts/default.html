@@ -42,7 +42,8 @@
                 <a href = "mailto: alexis.laignelet@gmail.com">Email</a> &nbsp;/&nbsp;
                 <a href="https://github.com/alaignelet">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?user=2WX7Lp0AAAAJ">Google Scholar</a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/alexis-laignelet-9aaa7a48"> LinkedIn </a>
+                <a href="https://www.linkedin.com/in/alexis-laignelet-9aaa7a48"> LinkedIn </a> &nbsp;/&nbsp;
+                <a href="/pdfs/cv_AL.pdf"> CV </a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
@@ -122,9 +123,9 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>{{post.categories}} {{post.course}}</em>
+              <em>{{post.course}}</em>
               <br>
-              {{ post.date | date: "%Y-%m-%d" }}
+              {{ post.date | date: "%m-%Y" }}
 
               <br>
               {% if post.website %}
