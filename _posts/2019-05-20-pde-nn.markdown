@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Venue Analytics: A Simple Alternative to Citation-Based Metrics"
+title:  "Combination of multiple Deep Learning architectures for Offensive Language Detection in Tweets"
 date:   2019-03-01 22:21:59 +00:00
-image: /images/jcdl2019.jpg
+image: /images/twitter.png
 categories: research
 authors: "<strong>Bathuan Guler, Alexis Laignelet, Nicolo Frisiani</strong>"
 venue: "ACM/IEEE Joint Conference on Digital Libraries"
