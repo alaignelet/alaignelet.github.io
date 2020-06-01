@@ -8,6 +8,7 @@ authors: "<strong>Bathuan Guler, Alexis Laignelet, Panos Parpas</strong>"
 venue: "NeurIPS 2019 Robust AI in Financial Services workshop"
 arxiv: https://arxiv.org/abs/1910.11623
 #slides: /pdfs/jcdl2019.pdf
-#code: https://github.com/alaignelet/nlp-sem-eval-2019
+code: https://github.com/alaignelet/deep-PDE
+poster: /pdfs/poster_pde_neurips.pdf
 ---
  Inspired by the success of deep learning, several researchers have recently proposed to address the solution of FBSDEs using deep learning. We discuss the dynamical systems point of view of deep learning and compare several architectures in terms of stability, generalization, and robustness. In order to speed up the computations, we propose to use a multilevel discretization technique. Our preliminary results suggest that the multilevel discretization method improves solutions times by an order of magnitude compared to existing methods without sacrificing stability or robustness.
