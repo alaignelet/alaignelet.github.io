@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/1910.11623
 code: https://github.com/alaignelet/deep-PDE
 poster: /pdfs/poster_pde_neurips.pdf
 ---
-A variety of applications in quantitative finance involve the solution of high dimensional and nonlinear Partial Differential Equations (PDEs). Inspired by the success of deep learning, several researchers have recently proposed to address the solution of the equivalent formulation in terms of Forward-Backward Stochastic Differential Equations (FBSDEs) by using deep learning. We discuss the dynamical systems point of view of deep learning and compare several architectures in terms of stability, generalization, and robustness. In order to speed up the computations, we propose to use a multilevel discretization technique.
+In this project we discuss the dynamical systems point of view of deep learning to solve PDEs and compare several architectures in terms of stability, generalization, and robustness. In order to speed up the computations, we propose to use a multilevel discretization technique.
