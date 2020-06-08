@@ -4,10 +4,10 @@ title:  "Multi-armed bandits"
 date:   2020-06-01 22:21:59 +00:00
 image: /images/bandits.jpg
 categories: talks
-course: 
+course:
 author: "Alexis Laignelet"
 #subtitle: "Collaborative robot state estimation"
-slides: /pdfs/mab-jpm.pdf
+slides: /pdfs/mab.pdf
 code: https://github.com/alaignelet/bandits
 ---
 A review of the most common forms of multi-armed bandits with some practical examples.
