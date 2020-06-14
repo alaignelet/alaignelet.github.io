@@ -9,6 +9,6 @@ venue: "NeurIPS, Robust AI in Financial Services workshop"
 arxiv: https://arxiv.org/abs/1910.11623
 #slides: /pdfs/jcdl2019.pdf
 code: https://github.com/alaignelet/deep-PDE
-poster: /pdfs/poster_pde_neurips.pdf
+poster: /pdfs/neurips2019_poster.pdf
 ---
 In this project we discuss the dynamical systems point of view of deep learning to solve PDEs and compare several architectures in terms of stability, generalization, and robustness. In order to speed up the computations, we propose to use a multilevel discretization technique.
