@@ -7,6 +7,6 @@ categories: talks
 course: "ETH, Analytics Club"
 author: "Alexis Laignelet"
 subtitle: "Collaborative robot state estimation"
-slides: /pdfs/ETZ_Analytics_club.pdf
+slides: /pdfs/eth_analytics_club_meetup.pdf
 ---
 Based on the research project 'Towards Robust and Stable Deep Learning Algorithms for Forward Backward Stochastic Differential Equations'
